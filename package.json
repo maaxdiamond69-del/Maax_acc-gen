@@ -1,0 +1,12 @@
+{
+  "name": "accgen",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node register.js",
+    "bot": "node bot.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
